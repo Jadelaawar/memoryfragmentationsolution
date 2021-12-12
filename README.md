@@ -1,1 +1,1 @@
-# memoryfragmentationsolution
+I belive the main issue is that too much memory is allocated to jemalloc try decreasing the total memory allocated and thta should fix the issue if not there are multiple ways to go about this so tell me if it doesn't fix the issue.
